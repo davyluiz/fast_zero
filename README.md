@@ -1,12 +1,8 @@
 # What is FastAPI?
 
----
-
 FastAPI is a modern Python framework designed for simplicity, speed, and efficiency. It combines many modern Python features, such as type annotations and concurrency support, making API development simple.
 
 ## About the project
-
----
 
 The project is based on an online course taught by Eduardo Mendes (@dunossauro) with the aim of facilitating the understanding of FastAPI and its best practices.
 
