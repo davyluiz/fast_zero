@@ -179,3 +179,5 @@ pyrightconfig.json
 
 .DS_store
 poetry.lock
+database.db
+database.db
